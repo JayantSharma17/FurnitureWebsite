@@ -1,3 +1,4 @@
+import React, { Component }  from 'react';
 import Cart from "./Components/Cart";
 import Navbar from "./Components/Navbar";
 import './ComponentsCSS/cartitem.css'
