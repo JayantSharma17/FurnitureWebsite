@@ -1,0 +1,62 @@
+.cardf{
+    width: 296px;
+    height: 340px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 5px;
+    margin-top: 25px;
+}
+    
+.cardf:hover{
+    box-shadow: 6px 13px 30px -10px #525252;
+    cursor: pointer;
+  
+    
+}
+.cardf1{
+    width: 255px;
+    height: 228px;
+    background-color: rgb(255, 255, 255);
+}
+.cardf2{
+    width: 254px;
+    height: 71px;
+    background-color: rgb(255, 255, 255);
+}
+.cardf2a{
+    width: 254px;
+    height: 40px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding:5px;
+}
+.cardf2a p{
+    font-size: 10px;
+}
+.cardf2b{
+    width: 254px;
+    height: 40px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding:5px;
+}
+.cardf2b #star{
+    font-size: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.cardf2b #star img{
+    width: 15px;
+}
+.cardf2b p{
+    font-size: 18px;
+    color: rgb(188, 0, 0);
+}

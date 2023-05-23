@@ -1,0 +1,52 @@
+.head4{
+    width: 1196px;
+    height: 244px;
+  background-color:  #ffffff;
+  margin: 0px auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+  margin-bottom: 140px;
+}
+.head4 .ha{
+    width: 295px;
+    height: 244px;
+  background-color:  #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex-direction: column;
+
+}
+.head4 .ha button{
+    margin-top: 15px;
+    width: 150px;
+    height: 45px;
+}
+.head4 .hb{
+    width: 295px;
+    height: 244px;
+  background-color:  #fc9090;
+  background-image: url("https://template.hasthemes.com/hurst-v1/hurst/img/blog/1.jpg");
+  background-position: center;
+    background-size: cover;
+
+}
+.head4 .hc{
+    width: 295px;
+    height: 244px;
+  background-color:  #fc9090;
+  background-position: center;
+    background-size: cover;
+
+}
+.head4 .hd{
+    width: 295px;
+    height: 244px;
+  background-color:  #fc9090;
+  background-image: url("https://template.hasthemes.com/hurst-v1/hurst/img/blog/2.jpg");
+  background-position: center;
+    background-size: cover;
+
+}

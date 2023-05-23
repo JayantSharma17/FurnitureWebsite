@@ -1,0 +1,69 @@
+.slider{
+    width: 1215px;
+    height: 520px;
+    /* background-color: aqua; */
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 25px auto;
+    margin-top: 100px;
+    
+}
+.slider .slider1{
+    width: 500px;
+    height: 520px;
+    /* background-color: rgba(0, 255, 255, 0.265); */
+    background-position: center;
+    margin-left: 684px;
+    display: flex;
+    align-items:flex-start;
+    justify-content: flex-start;
+    flex-direction: column;
+    gap: 15px;
+    padding-top: 92px;
+    
+}
+.slider .slider1 h1{
+    font-size: 45px;
+    color: #c87065;
+    
+}
+.slider .slider1 p{
+    font-size: 15px;
+    
+}
+.slider .slider1 button{
+    border: none;
+    border: none;
+    width: 155px;
+    height: 36px;
+    font-size: 19px;
+    background-color: #c87065;
+    color: white;
+    margin-top: 15px;
+}
+.slider .slider1 .onsale{
+    border-radius: 150px;
+    width: 120px;
+    height: 120px;
+    background-color: #c87065;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    position: absolute;
+    transform: translate(-295px,26px);
+}
+.slider .slider1 .onsale h3{
+    border-bottom: 1px solid #000000;
+}
+.but{
+    width: 200px;
+    margin: 0px auto;
+    position: absolute;
+    transform: translate(1248px,-56px);
+}
+.but img{
+    width: 20px;
+    
+}

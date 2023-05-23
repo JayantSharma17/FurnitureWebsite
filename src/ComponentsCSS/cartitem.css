@@ -1,0 +1,25 @@
+#cartitem{
+    width: 371px;
+  height: 70px;
+  background-color:  #ffffff;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+#cartitem #a{
+ width: 90px;
+  height: 65px;
+  background-color: rgb(0, 58, 58);
+
+  
+}
+#cartitem #b{
+ width: 220px;
+  height: 65px;
+  background-color: rgb(255, 255, 255);
+  
+}
+#cartitem #b p{
+ font-size: smaller;
+  
+}
